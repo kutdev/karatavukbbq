@@ -126,3 +126,11 @@ ul li :hover{
       margin-bottom: 20px;
   }
     }
+@media screen and (max-width:700px)
+    {
+        .menu-foto{
+            
+            height: 80px;
+           
+        }
+    }
